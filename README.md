@@ -23,7 +23,7 @@ Pizza Delivery Application is built using the following technologies and librari
 
 1. Clone the repository
 
-   `git clone https://github.com/lgope/the-wild-oasis.git`
+   `git clone https://github.com/cemmkandemir/pizza-delivery-redux.git`
 
 2. Install the required dependencies
 
